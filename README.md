@@ -1,4 +1,4 @@
-#Training a model from MNIST-data
+# Training a model from MNIST-data
 
 This R-script trains a model using a deep multi-layer perceptron on the [MNIST-data](https://en.wikipedia.org/wiki/MNIST_database). Model is trained using [Keras for R](https://keras.rstudio.com) and [TensorFlow](https://www.tensorflow.org).
 
